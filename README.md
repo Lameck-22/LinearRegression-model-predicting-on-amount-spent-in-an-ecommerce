@@ -4,9 +4,9 @@ Before diving into the model creation, data cleaning,preprocessing and EDA perfo
 First I installed scikit-learn using
 `%pip install scikit-learn`
 - From sklearn I imported various packages like: 
-  1.linear_model
-  2.metrics
-  3.model_selection
+  1. linear_model
+  2. metrics
+  3. model_selection
 
 - linear_model was used to perform linear regression and find the best fit line
 - model_selection was used to train_test_split the data
